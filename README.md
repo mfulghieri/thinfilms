@@ -1,7 +1,7 @@
-So, you've donwloaded some UV-vis code. This readme explains the contents of your
-downlaod and how to use it. 
+So, you've downloaded some UV-vis code. This readme explains the contents of your
+download and how to use it. 
 
-You have downlaoded this file, as well as a folder named Python. Within that 
+You have downloaded this file, as well as a folder named Python. Within that 
 folder is the various codes used for evaluating thin film thickness. 
 
 Your first step is to enter the Python folder, and run setup.py. By doing so, the
