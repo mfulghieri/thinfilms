@@ -16,6 +16,9 @@ Home
      -- MCMC
      -- Manual
      -- data.csv
+     
+I also included a practice data file! Move it to the correct folder first. Then 
+go ahead and play around with it. 
 
 You are now ready to measure some films. Begin by scanning** your film, and uploading
 the .csv to the Data folder. Then, enter the Python folder, and run the desired
