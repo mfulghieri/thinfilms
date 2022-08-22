@@ -1,3 +1,6 @@
+TL;DR Download the Python folder, and move it to a folder to work from. Then, run setup.py. 
+Move PVC.csv into the Data folder, and you are good to go.
+
 So, you've downloaded some UV-vis code. This readme explains the contents of your
 download and how to use it. 
 
