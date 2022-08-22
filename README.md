@@ -32,7 +32,13 @@ manual.py carries no quantitative measure. Instead, the user uses sliders in ord
 to create a qualitative fit. This is an effective and quick method of producing an
 estimate of the thickness. 
 
-Both mcmc.py and manual.py utilize a qualitative data normalization. Doing so
+unc.py uses a Monte Carlo simulation and least squares data fitting in order to find
+both the thickness of the film and the uncertainty in the thickness. It is powerful
+in the regard that it both data fits (however prior knowledge is necessary) and
+returns a distribution of fits according to the uncertainty in the independent
+varaibles. 
+
+Each mcmc.py, manual.py, and unc.py utilize a qualitative data normalization. Doing so
 operates under the assumption that the sinusoidal behavior is independent of the 
 baseline attenuation which muddles the sinusoid. 
 
